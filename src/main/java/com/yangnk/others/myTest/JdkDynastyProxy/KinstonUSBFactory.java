@@ -1,11 +1,11 @@
-package com.yangnk.rpc.myTest.proxy;
+package com.yangnk.others.myTest.JdkDynastyProxy;
 
 /**
  * @author yangningkai
- * @create 2022-06-30 15:40
+ * @create 2022-06-30 16:07
  **/
 
-public class KinstonUSBFactory implements IUSBSeller {
+public class KinstonUSBFactory implements IUSBFactory {
     int price = 25;
 
     @Override

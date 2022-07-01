@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.reflect;
+package com.yangnk.others.myTest.reflect;
 
 /**
  * @author yangningkai

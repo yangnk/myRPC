@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest;
+package com.yangnk.others.myTest;
 
 /**
  * @author yangningkai

@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.generic;
+package com.yangnk.others.myTest.generic;
 
 import java.util.ArrayList;
 import java.util.Arrays;

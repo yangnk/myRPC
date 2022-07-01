@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.JdkDynastyProxy;
+package com.yangnk.others.myTest.JdkDynastyProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

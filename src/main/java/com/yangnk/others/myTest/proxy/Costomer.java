@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.proxy;
+package com.yangnk.others.myTest.proxy;
 
 /**
  * @author yangningkai

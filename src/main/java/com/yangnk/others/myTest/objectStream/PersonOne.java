@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.objectStream;
+package com.yangnk.others.myTest.objectStream;
 
 import java.io.Serializable;
 

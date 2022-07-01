@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.JdkDynastyProxy;
+package com.yangnk.others.myTest.JdkDynastyProxy;
 
 /**
  * @author yangningkai

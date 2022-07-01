@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myTest.reflect;
+package com.yangnk.others.myTest.reflect;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -12,7 +12,7 @@ public class ReflectTest {
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException, InvocationTargetException {
         //获取Class对象，newInstance对象，打印出来
         //反射是可以根据字节码生成对象，并对其操作的技术
-        Class<User> aClass = (Class<User>) Class.forName("com.yangnk.rpc.myTest.reflect.User");
+        Class<User> aClass = (Class<User>) Class.forName("com.yangnk.others.myTest.reflect.User");
         User user = aClass.newInstance();
 //        System.out.printf(user.toString());
 //        System.out.printf("=====user.toString():%s=====\n",user.toString());
