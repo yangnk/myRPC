@@ -2,7 +2,7 @@ package com.yangnk.others.myTest.proxy;
 
 /**
  * @author yangningkai
- * @create 2022-06-30 15:40
+ * @create 2019-01-05 15:40
  **/
 
 public class KinstonUSBFactory implements IUSBSeller {

@@ -1,6 +1,6 @@
-package com.yangnk.rpc.myRPC.provider.impl;
+package com.yangnk.rpc.myRPC_v1.provider.impl;
 
-import com.yangnk.rpc.myRPC.provider.HelloService;
+import com.yangnk.rpc.myRPC_v1.provider.HelloService;
 
 /**
  * @author yangningkai

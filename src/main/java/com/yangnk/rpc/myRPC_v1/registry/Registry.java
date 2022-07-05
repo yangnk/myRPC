@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myRPC.registry;
+package com.yangnk.rpc.myRPC_v1.registry;
 
 import java.io.IOException;
 

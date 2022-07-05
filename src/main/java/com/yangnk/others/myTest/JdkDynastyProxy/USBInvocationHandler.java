@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * @author yangningkai
- * @create 2022-06-30 16:08
+ * @create 2019-01-05 16:08
  **/
 
 public class USBInvocationHandler implements InvocationHandler {

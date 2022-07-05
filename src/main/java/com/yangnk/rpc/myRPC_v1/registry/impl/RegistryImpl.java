@@ -1,6 +1,6 @@
-package com.yangnk.rpc.myRPC.registry.impl;
+package com.yangnk.rpc.myRPC_v1.registry.impl;
 
-import com.yangnk.rpc.myRPC.registry.Registry;
+import com.yangnk.rpc.myRPC_v1.registry.Registry;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

@@ -1,4 +1,4 @@
-package com.yangnk.rpc.myRPC.consumer;
+package com.yangnk.rpc.myRPC_v1.consumer;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

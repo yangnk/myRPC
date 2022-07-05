@@ -1,9 +1,9 @@
-package com.yangnk.rpc.myRPC.consumer;
+package com.yangnk.rpc.myRPC_v1.consumer;
 
-import com.yangnk.rpc.myRPC.provider.HelloService;
-import com.yangnk.rpc.myRPC.provider.impl.HelloServiceImpl;
-import com.yangnk.rpc.myRPC.registry.Registry;
-import com.yangnk.rpc.myRPC.registry.impl.RegistryImpl;
+import com.yangnk.rpc.myRPC_v1.provider.HelloService;
+import com.yangnk.rpc.myRPC_v1.provider.impl.HelloServiceImpl;
+import com.yangnk.rpc.myRPC_v1.registry.Registry;
+import com.yangnk.rpc.myRPC_v1.registry.impl.RegistryImpl;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -12,7 +12,6 @@ import java.net.InetSocketAddress;
  * @author yangningkai
  * @create 2022-07-01 17:28
  **/
-
 public class Consumer {
     public static void main(String[] args) {
         new Thread(new Runnable() {

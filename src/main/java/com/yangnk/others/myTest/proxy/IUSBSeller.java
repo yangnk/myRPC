@@ -2,7 +2,7 @@ package com.yangnk.others.myTest.proxy;
 
 /**
  * @author yangningkai
- * @create 2022-06-30 15:39
+ * @create 2019-01-05 15:39
  **/
 
 public interface IUSBSeller {
